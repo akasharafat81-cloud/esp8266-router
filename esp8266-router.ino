@@ -7,11 +7,11 @@
 
 #define SERIAL_Enabled false // To show details on serial
 // Write Your Router SSID which is your wifi name and your wifi PASSWORD.
-const char *SSID = "ahmetozer.org";
+const char *SSID = "UNIFI Akash";
 const char *PASSWORD = "12345678";
 
 // Your ESP Wifi
-const char *SOFT_AP_SSID = "ahmet.engineer";
+const char *SOFT_AP_SSID = "Akash.jr";
 const char *SOFT_AP_PASSWORD = PASSWORD; // My preference is same as my home SSID PASSWORD.
 int SOFT_AP_Channel = 11;
 
